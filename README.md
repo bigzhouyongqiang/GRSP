@@ -1,2 +1,6 @@
-# GRSP
-Global resource sharing platform
+# PKI Agents - Cert Expiry Checker (MVP)
+
+## Local dev
+```bash
+npm i
+npm run dev
